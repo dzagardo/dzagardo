@@ -4,7 +4,7 @@ Welcome to my GitHub! I'm David, a passionate Computer Science professional with
 
 ## About Me
 
-- 🎓 **Educational Background**: Master's degree in Privacy Engineering from Carnegie Mellon University.
+- 🎓 **Educational Background**: Master's degree in Privacy Engineering from Carnegie Mellon University, Bachelor's degree in Physics from The University of Alabama.
 - 🌟 **Specialization**: Integrating privacy and security principles through machine learning and data science methodologies.
 - 💻 **Programming Proficiency**: Expertise in Java, Python, JavaScript, TypeScript, and R.
 - 📊 **Machine Learning & Data Science**: Skilled in using libraries like Scikit-Learn, Tensorflow, OpenDP, and Opacus.
