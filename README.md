@@ -29,7 +29,6 @@ Welcome to my GitHub! I'm David, a passionate Computer Science professional with
 
 - **LinkedIn**: [David Zagardo](#)
 - **Email**: dzagardo@alumni.cmu.edu
-- **Phone**: 309.643.9494
 
 Thank you for visiting my profile. Feel free to explore my repositories and reach out if you want to collaborate on exciting projects or discuss innovative ideas in software development, data science, machine learning, and privacy engineering!
 
